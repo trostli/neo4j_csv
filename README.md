@@ -5,7 +5,9 @@
 * `gem install 'activemodel'`
 * `gem install 'railties'`
 
-and run.
+make sure neo4j server is running
+and run `ruby cs_challenge_neo4j.rb`
+
 
 ##Description:
 A plain Ruby script that will upload a CSV in the format of user_a_id, user_b_id and create a bidirectional relationship between them.
