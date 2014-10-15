@@ -1,9 +1,9 @@
 # Neo4j CSV reader
 
 ##To install:
-gem install 'neo4j'
-gem install 'activemodel'
-gem install 'railties'
+* gem install 'neo4j'
+* gem install 'activemodel'
+* gem install 'railties'
 
 and run.
 
